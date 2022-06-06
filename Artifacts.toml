@@ -1,0 +1,8 @@
+[[Git]]
+arch = "x86_64"
+git-tree-sha1 = "9bbad11d6bf1e0aa293adbe0f2b3f5807d3b383b"
+os = "macos"
+
+    [[Git.download]]
+    sha256 = "d77989975a736be58a770ad0db3116037badddf8fbe0c8adfc8b37a63c8a1223"
+    url = "https://github.com/mortenpi/Git_jll.jl/releases/download/Git-v2.36.1+0/Git.v2.36.1.x86_64-apple-darwin.tar.gz"
